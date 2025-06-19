@@ -1,1 +1,1 @@
-print("RTFM (Read the F-ing manual)")
+python3 string_are_arrays.py

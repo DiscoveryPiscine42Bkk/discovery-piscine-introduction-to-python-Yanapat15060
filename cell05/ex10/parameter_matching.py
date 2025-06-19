@@ -1,1 +1,1 @@
-print("RTFM (Read the F-ing manual)")
+python3 parameter_matching.py
